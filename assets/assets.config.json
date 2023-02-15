@@ -1,0 +1,113 @@
+{
+  "navbar_logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger_image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "favorite_app_1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "favorite_app_2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "favorite_app_3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "favorite_app_4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_main_dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about_us_image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "contact_location.svg": {
+    "mime": "image/svg+xml"
+  },
+  "contact_phone.svg": {
+    "mime": "image/svg+xml"
+  },
+  "contact_email.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu_dish_1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_6.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_7.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu_dish_8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "most_delicious_burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "left_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right_arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "face_1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "atricle_image-1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "atricle_image-2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "atricle_image-3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "atricle_image-4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "atricle_image-5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow_us_image1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow_us_image2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow_us_image3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow_us_image4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow_us_image5.jpeg": {
+    "mime": "image/jpeg"
+  }
+}

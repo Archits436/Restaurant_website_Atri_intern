@@ -1,0 +1,759 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+.p-Home.NavbarButtons {
+    margin-left: 250px;
+}
+
+.p-Home.ReservateButton {
+    font-weight: 500;
+    font-family: DM Sans;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: none;
+    border-color: #1890ff;
+}
+
+.p-Home.OrderOnlineButton {
+    font-weight: 500;
+    font-family: DM Sans;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+}
+
+.p-Home.HomeLink a,
+.p-Home.AboutLink a,
+.p-Home.MenuLink a,
+.p-Home.PagesLink a,
+.p-Home.CartLink a {
+    font-family: DM Sans;
+    text-decoration: none;
+    color: #696969;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.p-Home.BestBanner {
+    width: 100%;
+}
+
+.p-Home.BestBannerLeft {
+    position: relative;
+    z-index: 5;
+    width: 600px;
+    padding-left: 160px;
+    padding-top: 100px;
+}
+
+.p-Home.BestPlace,
+.p-Home.BurgerLA {
+    font-family: DM Sans;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.p-Home.BestLorem {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+    color: #757575;
+    line-height: 1.5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.p-Home.BestReservate,
+.p-Home.OrderOnline,
+.p-Home.JoinOurTeam,
+.p-Home.Button9,
+.p-Home.Button13 {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: none;
+    border-color: #FF7629;
+    background-color: #FF7629;
+    margin-right: 30px;
+    font-weight: 500;
+    font-family: DM Sans;
+}
+
+.p-Home.BestOrder {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    font-weight: 500;
+    font-family: DM Sans;
+}
+
+.p-Home.BestBurgerImage img {
+    width: 400px;
+    border-radius: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+    right: 200px;
+}
+
+.p-Home.OrangeBG {
+    width: 480px;
+    position: relative;
+    z-index: -5;
+}
+
+.p-Home.OrderText {
+    position: absolute;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.p-Home.FavouriteApps {
+    margin-top: 70px;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.p-Home.BrowseMenu {
+    text-align: center;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.p-Home.Breakfast,
+.p-Home.MainDishes,
+.p-Home.Drinks,
+.p-Home.Desserts {
+    border-color: #cecece;
+    border-width: 4px;
+}
+
+.p-Home.BreakfastName,
+.p-Home.DishesName,
+.p-Home.DrinksName,
+.p-Home.DessertsName {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.p-Home.MenuDesc1,
+.p-Home.MenuDesc2,
+.p-Home.MenuDesc3,
+.p-Home.MenuDesc4,
+.p-Home.TextBox64 {
+    font-family: DM Sans;
+    font-weight: 500;
+}
+
+.p-Home.ExploreMenu1 a,
+.p-Home.ExploreMenu2 a,
+.p-Home.ExploreMenu3 a,
+.p-Home.ExploreMenu4 a {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FF7629;
+    text-decoration: none;
+}
+
+.p-Home.AboutUsContainer {
+    background-color: #FFF9F3;
+    padding-top: 150px;
+    padding-left: 150px;
+    box-sizing: content-box;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: stretch;
+}
+
+.p-Home.AboutUsHead,
+.p-Home.MenuHeading,
+.p-Home.TextBox59,
+.p-Home.TextBox67,
+.p-Home.TextBox98 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.p-Home.AboutUs1,
+.p-Home.AboutUs2,
+.p-Home.Address,
+.p-Home.PhoneNo,
+.p-Home.Email {
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #8d8d8d;
+    width: 100%;
+}
+
+.p-Home.AboutUs,
+.p-Home.Button10,
+.p-Home.Button11,
+.p-Home.Button14,
+.p-Home.BookATable {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    font-family: DM Sans;
+    margin-right: 30px;
+}
+
+.p-Home.ContactDetails {
+    background-color: #ffffff;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    border-radius: 25px;
+    row-gap: 20px;
+    font-family: DM Sans;
+    font-weight: 500;
+    top: 300px;
+    right: 375px;
+    box-sizing: border-box;
+}
+
+.p-Home.VisitUs,
+.p-Home.TextBox101,
+.p-Home.TextBox109,
+.p-Home.TextBox117 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.p-Home.TextBox28 {
+    font-family: DM Sans;
+    font-weight: 500;
+    margin: 0 auto 60px;
+}
+
+.p-Home.Price1,
+.p-Home.Price2,
+.p-Home.Price3,
+.p-Home.Price4,
+.p-Home.Price5,
+.p-Home.Price6,
+.p-Home.Price7,
+.p-Home.Price8 {
+    font-family: DM Sans;
+    width: 36%;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #fffbfb;
+    position: relative;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    left: 60px;
+    bottom: 210px;
+    font-weight: 700;
+}
+
+.p-Home.Flex26,
+.p-Home.Flex27,
+.p-Home.Flex28,
+.p-Home.Flex29,
+.p-Home.Flex30,
+.p-Home.Flex31,
+.p-Home.Flex32,
+.p-Home.Flex33 {
+    align-items: center;
+    margin-right: 30px;
+    margin-bottom: 90px;
+}
+
+.p-Home.TextBox30,
+.p-Home.TextBox33,
+.p-Home.TextBox36,
+.p-Home.TextBox39,
+.p-Home.TextBox42,
+.p-Home.TextBox45,
+.p-Home.TextBox48,
+.p-Home.TextBox51 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.p-Home.TextBox31,
+.p-Home.TextBox34,
+.p-Home.TextBox37,
+.p-Home.TextBox40,
+.p-Home.TextBox43,
+.p-Home.TextBox46,
+.p-Home.TextBox49,
+.p-Home.TextBox52 {
+    height: 50px;
+    max-height: 100px;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #686868;
+    font-size: 16px;
+    text-align: center;
+}
+
+.p-Home.Flex25,
+.p-Home.Flex35 {
+    margin: 0 auto;
+}
+
+.p-Home.Flex35 {
+    margin-bottom: -60px;
+}
+
+.p-Home.Image20,
+.p-Home.Image21,
+.p-Home.Image22,
+.p-Home.Image23,
+.p-Home.Image24,
+.p-Home.Image25,
+.p-Home.Image26,
+.p-Home.Image29 {
+    margin-bottom: -30px;
+}
+
+.p-Home.Flex41 {
+    margin-top: 300px;
+    margin-left: 150px;
+}
+
+.p-Home.TextBox56 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 38px;
+    width: 80%;
+}
+
+.p-Home.TextBox57 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+    width: 75%;
+}
+
+.p-Home.Button12 {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: #FF7629;
+    margin-right: 30px;
+    font-weight: 500;
+    font-family: DM Sans;
+}
+
+.p-Home.Image31 {
+    width: 55vw;
+}
+
+.p-Home.TextBox60 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #727272;
+    margin: 20px auto 20px;
+}
+
+.p-Home.Flex43 {
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.p-Home.Image32,
+.p-Home.Image33 {
+    background-color: #FF7629;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 50px;
+}
+
+.p-Home.Flex45 {
+    padding-bottom: 40px;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+    row-gap: 10px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #d5d5d5;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.p-Home.TextBox62 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.p-Home.TextBox63 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 14px;
+    color: #716f6f;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.p-Home.TextBox65 {
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #595858;
+}
+
+.p-Home.Flex51 {
+    padding-top: 150px;
+    background-color: #FFF9F3;
+    padding-left: 100px;
+    padding-right: 100px;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+    padding-bottom: 100px;
+}
+
+.p-Home.TextBox68 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 35px;
+    background-color: #ffffff;
+}
+
+.p-Home.Image41,
+.p-Home.Image42,
+.p-Home.Image43,
+.p-Home.Image44,
+.p-Home.Image45 {
+    width: 100%;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.p-Home.TextBox69 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.p-Home.TextBox70 {
+    margin-bottom: 10px;
+}
+
+.p-Home.TextBox69,
+.p-Home.TextBox72,
+.p-Home.TextBox75,
+.p-Home.TextBox78,
+.p-Home.TextBox83 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+    color: #737373;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.p-Home.TextBox70 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 26px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.p-Home.TextBox71 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 15px;
+    color: #8f8f8f;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+.p-Home.TextBox73,
+.p-Home.TextBox76,
+.p-Home.TextBox80,
+.p-Home.TextBox84 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.p-Home.Flex63,
+.p-Home.Flex64,
+.p-Home.Flex65,
+.p-Home.Flex66 {
+    width: 43%;
+    background-color: #fffefe;
+    row-gap: 10px;
+    border-radius: 35px;
+    padding-bottom: 20px;
+}
+
+.p-Home.Flex56 {
+    width: 90%;
+    background-color: #fffefe;
+    border-radius: 35px;
+}
+
+.p-Home.Flex57 {
+    width: 100%;
+    margin-left: 80px;
+}
+
+.p-Home.Flex59,
+.p-Home.Flex63,
+.p-Home.Flex65 {
+    margin-bottom: 30px;
+}
+
+.p-Home.Flex67 {
+    height: 120vh;
+}
+
+.p-Home.Flex68 {
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 200px;
+    padding-left: 175px;
+    padding-bottom: 100px;
+    width: 50%;
+}
+
+.p-Home.Flex69 {
+    height: 954px;
+}
+
+.p-Home.TextBox91,
+.p-Home.TextBox92,
+.p-Home.TextBox93,
+.p-Home.TextBox94,
+.p-Home.TextBox95,
+.p-Home.TextBox96,
+.p-Home.TextBox97 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.p-Home.Input2,
+.p-Home.Input3,
+.p-Home.Input4,
+.p-Home.Input5,
+.p-Home.Input6,
+.p-Home.Input7,
+.p-Home.Input8 {
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    font-variant: tabular-nums;
+    font-feature-settings: tnum, "tnum";
+    padding-top: 11px;
+    padding-left: 15px;
+    padding-bottom: 11px;
+    padding-right: 15px;
+    color: #000000d9;
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-radius: 20px;
+}
+
+.p-Home.Input8 {
+    height: 180px;
+    width: 377px;
+    text-align: center;
+}
+
+.p-Home.Button16 {
+    color: #fff;
+    background-color: #FF7629;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: none;
+    border-color: #1890ff;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    font-family: DM Sans;
+    width: 40%;
+}
+
+.p-Home.Flex90 {
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 30px;
+    position: relative;
+    top: 100px;
+    right: 140px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #d9d4d4;
+    height: 640px;
+    width: 375px;
+}
+
+.p-Home.TextBox85 {
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 34px;
+    align-self: auto;
+}
+
+.p-Home.TextBox86 {
+    width: 50%;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 16px;
+    color: #727171;
+}
+
+.p-Home.TextBox87,
+.p-Home.TextBox88,
+.p-Home.TextBox90 {
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #717070;
+}
+
+.p-Home.TextBox87 {
+    width: 60%;
+}
+
+.p-Home.Flex102 {
+    height: 384px;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.p-Home.TextBox99 {
+    margin-left: 800px;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 18px;
+    color: #ffffff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 35px;
+    background-color: #FF7629;
+}
+
+.p-Home.TextBox102,
+.p-Home.TextBox103,
+.p-Home.TextBox104,
+.p-Home.TextBox105,
+.p-Home.TextBox106,
+.p-Home.TextBox107,
+.p-Home.TextBox108,
+.p-Home.TextBox110,
+.p-Home.TextBox111,
+.p-Home.TextBox112,
+.p-Home.TextBox113,
+.p-Home.TextBox114,
+.p-Home.TextBox115,
+.p-Home.TextBox116 {
+    font-size: 16px;
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #7f7c7c;
+}
+
+.p-Home.TextBox100 {
+    font-family: DM Sans;
+    font-weight: 500;
+    color: #6a6868;
+}
+
+.p-Home.Flex117 {
+    height: 400px;
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
